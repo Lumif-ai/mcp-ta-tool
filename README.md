@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lumif-ai-mcp-ta-tool-badge.png)](https://mseep.ai/app/lumif-ai-mcp-ta-tool)
+
 # LumiFAI MCP Technical Analysis Server
 
 A FastMCP server that provides technical analysis tools for cryptocurrency trading data, specifically focusing on Exponential Moving Average (EMA) calculations for Binance pairs. The server defaults to SSE transport layer for communication.
